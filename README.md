@@ -1,4 +1,4 @@
-# Argo CD Demo
+# Whirlpool CI demo
 
 Repository demonstrates an application deployment using Jenkins and Argo CD.
 
